@@ -1,0 +1,11 @@
+# Client-specific ignore rules
+invoice-client/node_modules/
+
+# Server-specific ignore rules
+invoice-server/.idea/
+invoice-server/target/
+
+# General ignores
+*.log
+.DS_Store
+Thumbs.db
